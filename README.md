@@ -1,6 +1,6 @@
 # Color Conversion
 ## AIM
-To convert the images from RGB to HSV, RGB to GRAY, RGB to YCrCb, and HSV to RGB.
+To perform the color conversion between RGB, BGR, HSV, and YCbCr color models.
 
 ## Software Required:
 Anaconda - Python 3.7
@@ -24,32 +24,55 @@ Anaconda - Python 3.7
 ```python
 # Developed By:
 # Register Number:
-# i) Convert RGB to HSV and GRAY
+# i) Convert BGR and RGB to HSV and GRAY
 
 
 
 
 
-# ii)Convert RGB to YCrCb
+# ii)Convert HSV to RGB and BGR
 
 
 
 
 
-# iii)Convert HSV to RGB
+# iii)RGB and BGR to YCrCb
 
 
+
+
+# iv)Split and Merge RGB Image
+
+
+
+
+# v) Split and merge HSV Image
 
 
 
 
 ```
 ## Output:
+### Convert BGR and RGB to HSV and GRAY
+<br>
 <br>
 
+### Convert HSV to RGB and BGR
 <br>
 <br>
+
+### RGB and BGR to YCrCb
 <br>
+<br>
+
+### Split and merge RGB Image
+<br>
+<br>
+
+### Split and merge HSV Image
+<br>
+<br>
+
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.

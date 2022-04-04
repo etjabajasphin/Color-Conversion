@@ -53,23 +53,23 @@ Anaconda - Python 3.7
 
 ```
 ## Output:
-### Convert BGR and RGB to HSV and GRAY
+### i) Convert BGR and RGB to HSV and GRAY
 <br>
 <br>
 
-### Convert HSV to RGB and BGR
+### ii) Convert HSV to RGB and BGR
 <br>
 <br>
 
-### RGB and BGR to YCrCb
+### iii) RGB and BGR to YCrCb
 <br>
 <br>
 
-### Split and merge RGB Image
+### iv) Split and merge RGB Image
 <br>
 <br>
 
-### Split and merge HSV Image
+### v) Split and merge HSV Image
 <br>
 <br>
 

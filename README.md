@@ -36,7 +36,7 @@ Anaconda - Python 3.7
 
 
 
-# iii)RGB and BGR to YCrCb
+# iii)Convert RGB and BGR to YCrCb
 
 
 
@@ -53,11 +53,11 @@ Anaconda - Python 3.7
 
 ```
 ## Output:
-### i) Convert BGR and RGB to HSV and GRAY
+### i) BGR and RGB to HSV and GRAY
 <br>
 <br>
 
-### ii) Convert HSV to RGB and BGR
+### ii) HSV to RGB and BGR
 <br>
 <br>
 
